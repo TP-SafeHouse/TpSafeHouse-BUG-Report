@@ -9,7 +9,7 @@ http://gamesafe.qq.com/article/386.shtml
 ## BUG反馈:
 TP安全屋使用过程中遇到的BUG, 建议及其它相关问题,请提交到本项目Issues页面:
 
-https://github.com/TPSafeHouse/TPSafeHouse-BUG-Report/issues
+https://github.com/TP-SafeHouse/TpSafeHouse-BUG-Report/issues
 
 提交时请描述清楚问题表现,截图及相关机器信息
 
